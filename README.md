@@ -55,3 +55,4 @@ Cuadro de búsqueda para localizar productos específicos.
 🧭 Panel lateral (todas las páginas)
 Botones de navegación: Inicio, Histórico, Detalle.
 Filtros: Year, Categoría, Subcategoría y Etiquetas.
+<img src="images/mi-imagen.png" width="400">
