@@ -55,4 +55,4 @@ Cuadro de búsqueda para localizar productos específicos.
 🧭 Panel lateral (todas las páginas)
 Botones de navegación: Inicio, Histórico, Detalle.
 Filtros: Year, Categoría, Subcategoría y Etiquetas.
- <img width="1321" height="732" alt="image" src="https://github.com/user-attachments/assets/294dff07-dc14-4d14-965f-ac5a0d3c4c2a" />
+ <img width="1321" height="732" alt="image" src="merx power bi.jpg" />
